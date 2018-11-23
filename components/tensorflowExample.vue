@@ -2,7 +2,7 @@
   <div>
       <h2>Made using Nuxt.js and Tensorflow.js</h2>
       <br>
-      <p>this project takes some x and y pairs and based of a linear regression model predicts a y value based off an x input</p>
+      <p>This project takes some x and y pairs and based of a linear regression model predicts a y value based off an x input</p>
 
       <br>
     <div class="train-controls">
